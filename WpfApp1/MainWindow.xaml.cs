@@ -30,7 +30,7 @@ namespace WpfApp1
         }
         private void LogOffButton_Click(object sender, RoutedEventArgs e)
         {
-            InfoTextBlock.Text = "";
+            InfoTextBlock.Text = "jelle";
         }
 
     }
